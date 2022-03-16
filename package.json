@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float64-e",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Euler's number.",
   "license": "Apache-2.0",
   "author": {
