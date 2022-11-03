@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@deno/mod.js';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@v0.0.8-deno/mod.js';
 ```
 
 #### E
@@ -56,7 +56,7 @@ var bool = ( E === 2.718281828459045 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@deno/mod.js';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@v0.0.8-deno/mod.js';
 
 console.log( E );
 // => 2.718281828459045
