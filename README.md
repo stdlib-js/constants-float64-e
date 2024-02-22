@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-e/tags). For example,
+
+```javascript
 import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@v0.2.1-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ var bool = ( E === 2.718281828459045 );
 <body>
 <script type="module">
 
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@v0.2.1-esm/index.mjs';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@esm/index.mjs';
 
 console.log( E );
 // => 2.718281828459045
