@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@esm/index.mjs';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@v0.2.2-esm/index.mjs';
 ```
 
 #### E
@@ -72,7 +72,7 @@ var bool = ( E === 2.718281828459045 );
 <body>
 <script type="module">
 
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@esm/index.mjs';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-e@v0.2.2-esm/index.mjs';
 
 console.log( E );
 // => 2.718281828459045
